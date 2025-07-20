@@ -1,0 +1,17 @@
+{
+    "name": "web-automation-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx playwright test --headed",
+        "testReport": "npx playwright show-report"
+    },
+    "keywords": [],
+    "author": "jessicatheodora17",
+    "license": "MIT",
+    "devDependencies": {
+        "@playwright/test": "^1.54.1",
+        "@types/node": "^20.14.2"
+    }
+}
