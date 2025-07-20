@@ -19,7 +19,7 @@ Before running the tests, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/jessicatheodora17/web-automation-test.git
-cd your-repo
+cd web-automation-test
 ```
 
 2. Install all dependencies:
